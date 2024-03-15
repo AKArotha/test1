@@ -6,5 +6,6 @@ def star(n):
         for j in range (0, i):
             print(num, end = " ")
             num += 1
-            
+
 print(star(5))
+print("Here are half pyramid.")
